@@ -33,7 +33,7 @@ And this image file: [0-sprite.png](https://github.com/Cristhian-Carbonell/Fun-w
 
 Create ```0-styles.css``` and generate this layout:
 
-[](https://github.com/Cristhian-Carbonell/Fun-with-CSS/blob/main/images/94aa60f76c412f40a87b.png?raw=true)
+![](https://github.com/Cristhian-Carbonell/Fun-with-CSS/blob/main/images/94aa60f76c412f40a87b.png?raw=true)
 
 You are not allowed to change the image and the HTML - sprite is cool!
 
@@ -57,7 +57,7 @@ By using this HTML:
 ```
 Create ```1-styles.css``` and generate this layout where the underline is hidden by default and appeared slowly…:
 
-[](https://github.com/Cristhian-Carbonell/Fun-with-CSS/blob/main/images/b791cfdbd11c0eefa5f7.gif?raw=true)
+![](https://github.com/Cristhian-Carbonell/Fun-with-CSS/blob/main/images/b791cfdbd11c0eefa5f7.gif?raw=true)
 
 You are not allowed to change the HTML
 
@@ -87,9 +87,9 @@ By using this HTML:
 Create ```2-styles.css``` and generate this layout where the ```<input>``` is has this custom toggle layout:
 
 Checked:
-[](https://github.com/Cristhian-Carbonell/Fun-with-CSS/blob/main/images/3848b025c8f25636bba5.png?raw=true)
+![](https://github.com/Cristhian-Carbonell/Fun-with-CSS/blob/main/images/3848b025c8f25636bba5.png?raw=true)
 Unchecked:
-[](https://github.com/Cristhian-Carbonell/Fun-with-CSS/blob/main/images/aeae59fdee93b17f360f.png?raw=true)
+![](https://github.com/Cristhian-Carbonell/Fun-with-CSS/blob/main/images/aeae59fdee93b17f360f.png?raw=true)
 You are not allowed to change the HTML
 
 ### [3. Menu]()
@@ -126,7 +126,7 @@ By using this HTML:
 ```
 Create ```3-styles.css``` and generate this layout/animation:
 
-[](https://github.com/Cristhian-Carbonell/Fun-with-CSS/blob/main/images/252a25667dc7c65fe0e9.gif?raw=true)
+![](https://github.com/Cristhian-Carbonell/Fun-with-CSS/blob/main/images/252a25667dc7c65fe0e9.gif?raw=true)
 You are not allowed to change the HTML
 
 
