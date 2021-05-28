@@ -1,0 +1,24 @@
+h2 {
+    font-size: 2rem;
+}
+
+a {
+    color: #98060B;
+    text-decoration: none;
+    position: relative;
+}
+
+a::before {
+    height: 3px;
+    width: 0;
+    left: 0;
+    bottom: 0;
+    transition: ease width 0.8s;
+    background: #98060B;
+    content: "";
+    position: absolute;
+}
+
+a:hover::before {
+    width: 100%;
+}
